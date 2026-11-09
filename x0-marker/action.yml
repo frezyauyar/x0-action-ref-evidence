@@ -3,4 +3,4 @@ runs:
   using: composite
   steps:
     - shell: bash
-      run: printf 'X0-MARKER-A\n'
+      run: printf 'X0-MARKER-B\n'
