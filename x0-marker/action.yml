@@ -1,0 +1,6 @@
+name: x0-marker
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      run: printf 'X0-MARKER-A\n'
